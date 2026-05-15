@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/anjalivgowda8/k8s-training
+    repoURL:https://github.com/anjalivgowda8/k8s-nginx-ha-argocd
     targetRevision: HEAD
     path: app
 
